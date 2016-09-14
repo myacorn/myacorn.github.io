@@ -12,6 +12,9 @@ import sys
 import ablog
 import alabaster
 
+# -- Custom options ----------------------------------------------------------
+github_pages = 'isedwards'
+
 # -- General ABlog Options ----------------------------------------------------
 
 # A path relative to the configuration directory for blog archive pages.
