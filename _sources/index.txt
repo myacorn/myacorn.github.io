@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Ian Edwards, Helen Edwards's Blog!
-========================================
+Welcome
+=======
 
-Hello World! Find more about me here: :ref:`about`
+Find out more about this blog here: :ref:`about`
 
 
 Here is a list of most recent posts:
@@ -26,4 +26,3 @@ Here is a list of most recent posts:
    :hidden:
 
    about.rst
-
