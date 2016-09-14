@@ -13,7 +13,7 @@ import ablog
 import alabaster
 
 # -- Custom options ----------------------------------------------------------
-github_pages = 'isedwards'
+github_pages = 'myacorn'
 
 # -- General ABlog Options ----------------------------------------------------
 
