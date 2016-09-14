@@ -1,0 +1,19 @@
+language: python
+
+python:
+  - 2.7
+
+virtualenv:
+    system_site_packages: true
+
+before_install:
+  - pip install ablog
+
+script:
+  - ablog build
+
+after_success:
+  - git config --global user.name "isedwards"
+  - git config --global user.email "ian@myacorn.com"
+  - git config --global push.default simple
+  - ablog deploy --push-quietly --github-token=DEPLOY_KEY -m="`git log -1 --pretty=%B`"
