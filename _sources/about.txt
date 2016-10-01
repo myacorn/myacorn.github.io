@@ -1,8 +1,8 @@
 
 .. _about:
 
-About Ian Edwards, Helen Edwards
-============================
+About
+=====
 
-The world wants to know more about you.
+This site is hosted on github pages.
 
