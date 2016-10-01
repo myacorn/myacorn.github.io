@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title type="text">myAcorn blog Blog</title>
+  <title type="text">myAcorn</title>
   <id>True/blog/atom.xml</id>
   <updated>2016-10-01T00:00:00Z</updated>
   <link href="True" />
