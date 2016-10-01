@@ -21,7 +21,7 @@ github_pages = 'myacorn'
 #blog_path = 'blog'
 
 # The “title” for the blog, used in acthive pages.  Default is ``'Blog'``.
-blog_title = u'myAcorn blog Blog'
+blog_title = u'myAcorn'
 
 # Base URL for the website, required for generating feeds.
 # e.g. blog_baseurl = "http://example.com/"
@@ -182,8 +182,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'myAcorn blog'
-copyright = u'2016, Ian Edwards, Helen Edwards'
+project = u'myAcorn'
+copyright = u'2016'
 author = u'Ian Edwards, Helen Edwards'
 
 # The version info for the project you're documenting, acts as replacement for
