@@ -21,7 +21,7 @@ Fiction
 * The Enormous Turnip
 * The Magic Bunny
 * That's Not My Squirrel
-* Brambley Hedge
+* Brambly Hedge
 
 Poems and nursery rhymes
 ------------------------
@@ -34,3 +34,5 @@ Others
 * Alphaprints colors
 * Baby Bath Colours
 * Baby's Very First Word Book
+* Black & White (Tana Hoban)
+* Black & White Baby Book (Animals)
