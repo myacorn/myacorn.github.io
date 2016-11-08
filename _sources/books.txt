@@ -22,6 +22,9 @@ Fiction
 * The Magic Bunny
 * That's Not My Squirrel
 * Brambly Hedge
+* Where shall we play today?
+* Who shall we be today?
+* Beatrix Potter - The Complete Tales
 
 Poems and nursery rhymes
 ------------------------
