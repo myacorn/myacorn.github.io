@@ -10,21 +10,23 @@ Katie's Books
 
 Fiction
 -------
-* Each Peach Pear Plum
-* Snow Friends
-* Snow Bunny's Christmas Gift
-* Little Grey Rabbit's Noisy Night
-* When I am Big
-* Winnie the Pooh - Complete
-* The Wind in the Willows
-* The Tale of Peter Rabbit
+
+* Ahlberg - Each Peach Pear Plum
+* Barklem - complete Brambly Hedge
+* Butler - One Snowy Night
+* Butler - Snow Friends
+* Comyn & Sheehan - The Magic Bunny
+* Corrie - Little Grey Rabbit’s Noisy Night
+* Grahame - The Wind in the Willows
+* Harry - Snow Bunny’s Christmas Gift
+* Johnson & Irving - When I am Big
+* Meredith - Where shall we play today?
+* Meredith - Who shall we be today?
+* Milne - Winnie the Pooh - Complete
+* Potter - The Tale of Peter Rabbit
+* Potter - The Complete Tales
+* Watt & Wells - That’s Not My Squirrel
 * The Enormous Turnip
-* The Magic Bunny
-* That's Not My Squirrel
-* Brambly Hedge
-* Where shall we play today?
-* Who shall we be today?
-* Beatrix Potter - The Complete Tales
 
 Poems and nursery rhymes
 ------------------------
