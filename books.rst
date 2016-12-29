@@ -25,6 +25,7 @@ Fiction
 * Harry - Snow Bunny’s Christmas Gift
 * Harry - Snow Bunny’s Christmas Wish
 * Johnson & Irving - When I am Big
+* Marlow - Hurry Up and Slow Down
 * McBratney - Guess How Much I Love You
 * Meredith - Where shall we play today?
 * Meredith - Who shall we be today?
