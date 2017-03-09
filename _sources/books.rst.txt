@@ -13,6 +13,9 @@ Fiction
 
 * Ahlberg - Each Peach Pear Plum
 * Barklem - complete Brambly Hedge
+* Blyton - Happy Hours Story Book
+* Blyton - The Children of Cherry Tree Farm
+* Blyton - The Magic Faraway Tree
 * Butler - One Snowy Night
 * Butler - Snow Friends
 * Chiew - I Love You More Each Day
@@ -20,6 +23,7 @@ Fiction
 * Corrie - Little Grey Rabbit’s Noisy Night
 * Dodd - Love
 * Dodd - Together
+* Donaldson & Scheffler - Room on the Broom
 * Dylan - Man Gave Names To All The Animals
 * Grahame - The Wind in the Willows
 * Harry - Snow Bunny’s Christmas Gift
@@ -43,6 +47,15 @@ Poems and nursery rhymes
 * The Oxford Nursery Rhyme Book
 * The Puffin Book of Fantastic First Poems
 * My First Oxford Book of Animal Poems
+
+Languages
+---------
+
+* First Thousand Words in French
+* First Thousand Words in German
+* First Thousand Words in Japanese
+* First Thousand Words in Russian
+* Bilingual First Books - English / Spanish
 
 Others
 ------
