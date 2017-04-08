@@ -16,6 +16,7 @@ Fiction
 * Blyton - Happy Hours Story Book
 * Blyton - The Children of Cherry Tree Farm
 * Blyton - The Magic Faraway Tree
+* Bruna - Miffy at the zoo
 * Butler - One Snowy Night
 * Butler - Snow Friends
 * Chiew - I Love You More Each Day
@@ -26,6 +27,8 @@ Fiction
 * Donaldson & Scheffler - Room on the Broom
 * Dylan - Man Gave Names To All The Animals
 * Grahame - The Wind in the Willows
+* Hargreaves - Mr Impossible and the Easter Egg Hunt
+* Hargreaves - My Mummy and Me
 * Harry - Snow Bunny’s Christmas Gift
 * Harry - Snow Bunny’s Christmas Wish
 * Johnson & Irving - When I am Big
