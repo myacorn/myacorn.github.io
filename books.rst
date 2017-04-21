@@ -15,11 +15,13 @@ Fiction
 * Barklem - complete Brambly Hedge
 * Blyton - Happy Hours Story Book
 * Blyton - The Children of Cherry Tree Farm
-* Blyton - The Magic Faraway Tree
+* Blyton - The Faraway Tree Collection
 * Bruna - Miffy at the zoo
 * Butler - One Snowy Night
 * Butler - Snow Friends
 * Chiew - I Love You More Each Day
+* Chiew & Pedler - Badger and the Great Rescue
+* Chiew & Pedler - Badger and the Great Storm
 * Comyn & Sheehan - The Magic Bunny
 * Corrie - Little Grey Rabbit’s Noisy Night
 * Dodd - Love
