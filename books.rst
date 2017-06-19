@@ -33,6 +33,7 @@ Fiction
 * Hargreaves - My Mummy and Me
 * Harry - Snow Bunny’s Christmas Gift
 * Harry - Snow Bunny’s Christmas Wish
+* Hubery & Elliott - My Daddy
 * Johnson & Irving - When I am Big
 * Marlow - Hurry Up and Slow Down
 * McBratney - Guess How Much I Love You
