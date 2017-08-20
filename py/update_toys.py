@@ -59,7 +59,7 @@ class Toys(object):
             rst.write(PREAMBLE)
             for i, (heading, toys) in enumerate(self.toys.items()):
                 blank_line = '\n' if i else ''
-                rst.write('{}{}\n'.format(blank_line, heading))
+                rst.write('{}{}\n'.format(blank_line, heading.title()))
                 rst.write('{}\n'.format('-' * len(heading)))
                 for toy in toys:
                     make = ' ({})'.format(toy.make) if toy.make else ''

@@ -6,18 +6,18 @@
 Katie's Toys
 ============
 
-PUPPETS
+Puppets
 -------
 Teddy bear
 Hare and tortoise  (Finger puppets)
 Animals (Finger puppets)
 Hedgehog & mouse (Finger puppets)
 
-BALLS
+Balls
 -----
 Soft ball (Grimms)
 
-SOFT TOYS
+Soft Toys
 ---------
 Alphabet caterpillar
 Owl who was afraid of the dark
@@ -29,31 +29,31 @@ Giraffe
 Fox
 Scarecrows * 2
 
-OTHERS
+Others
 ------
 Freddie the Firefly (Lamaze toy)
 Wooden grasper (Grimms)
 Flip Cube (Tiny Love)
 
-TEETHERS
+Teethers
 --------
 Mushroom (Chan) (Rubber)
 Elephant (Wooden)
 Plastic teething rings (for fridge) (Water filled)
 
-STACKING & SORTING
+Stacking & Sorting
 ------------------
 Blocks (Nutbrown hair)
 Shape sorter (GoGo)
 Stacking rings (soft)
 Stacking cups (Green Toys)
 
-PUSH-ALONG AND PULL-ALONG TOYS
+Push-Along And Pull-Along Toys
 ------------------------------
 Grasshopper (Pull-along)
 Stegosaurus (Push-along)
 
-RATTLES
+Rattles
 -------
 Zebra soft toy
 Giraffe wrist rattle
