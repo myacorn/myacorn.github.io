@@ -17,11 +17,22 @@ from tablib import Databook
 Toy = collections.namedtuple('Toy', 'name make')
 
 
+PREAMBLE = """
+.. post:: Aug 20, 2017
+   :tags: toys
+   :author: Ian Edwards
+
+Katie's Toys
+============
+
+"""
+
+
 class Toys(object):
     def __init__(self, src):
         # Create an empty Databook object, the workbook (and multiple sheets from Excel)
-        with open(src, 'rb') as excel_data:
-          book = Databook().load(None, excel_data.read())
+        with open(src, 'rb') as xl:
+          book = Databook().load(None, xl.read())
           sheets = book.sheets()
           toys = sheets[0]
         
@@ -44,7 +55,16 @@ class Toys(object):
                 self.toys[heading].append(Toy(row[0], row[1]))
 
     def save(self, dest):
-        print self.toys
+        with open(dest, 'w') as rst:
+            rst.write(PREAMBLE)
+            for i, (heading, toys) in enumerate(self.toys.items()):
+                blank_line = '\n' if i else ''
+                rst.write('{}{}\n'.format(blank_line, heading))
+                rst.write('{}\n'.format('-' * len(heading)))
+                for toy in toys:
+                    make = ' ({})'.format(toy.make) if toy.make else ''
+                    rst.write('{}{}\n'.format(toy.name, make))
+            rst.write('\n')
 
 
 if __name__ == '__main__':
