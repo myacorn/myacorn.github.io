@@ -17,8 +17,7 @@ from tablib import Databook
 Toy = collections.namedtuple('Toy', 'name make')
 
 
-PREAMBLE = """
-.. post:: Aug 20, 2017
+PREAMBLE = """.. post:: Aug 20, 2017
    :tags: toys
    :author: Ian Edwards
 
@@ -63,7 +62,7 @@ class Toys(object):
                 rst.write('{}\n'.format('-' * len(heading)))
                 for toy in toys:
                     make = ' ({})'.format(toy.make) if toy.make else ''
-                    rst.write('{}{}\n'.format(toy.name, make))
+                    rst.write('* {}{}\n'.format(toy.name, make))
             rst.write('\n')
 
 
