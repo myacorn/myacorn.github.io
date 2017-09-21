@@ -35,6 +35,7 @@ Fiction
 * Harry - Snow Bunny’s Christmas Wish
 * Hubery & Elliott - My Daddy
 * Johnson & Irving - When I am Big
+* Lewis - The Chronicles of Narnia
 * Marlow - Hurry Up and Slow Down
 * McBratney - Guess How Much I Love You
 * Meredith - Where shall we play today?
